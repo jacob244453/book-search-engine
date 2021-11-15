@@ -8,7 +8,7 @@
 
   A Book search engine which uses the MERN stack and a React front end, a MongoDB database, and a Node js & Express js server.
   The app is set up to allow users to save their book searches to their profile and allow them to view the books and details. 
-  The appn is built using the Google Books API so that users can click a link that takes them to google books.
+  The app is built using the Google Books API so that users can click a link that takes them to google books.
   
   ## Table of Contents
   * [Link](#Link)
